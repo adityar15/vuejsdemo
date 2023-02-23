@@ -5,7 +5,7 @@
 </template>
 
 <script setup>
-import pokemons from "@/assets/sampledataset.json"
+// import pokemons from "@/assets/sampledataset.json"
 import Pokemon from "./Pokemon.vue"
 
 // mount and then make api call
